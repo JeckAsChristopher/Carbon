@@ -1,0 +1,11 @@
+bool test: {
+    false;
+    cend
+}
+
+if test equals true {
+    cprint("pass");
+} else {
+    cprint("fail");
+    cend
+} 
